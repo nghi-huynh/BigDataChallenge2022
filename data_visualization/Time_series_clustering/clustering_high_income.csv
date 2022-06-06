@@ -1,12 +1,12 @@
 Series,Cluster
-Prevalence - Mental disorders - Sex: Both - Age: Age-standardized (Percent),Cluster 1
+gdp_current,Cluster 1
 gdp_per_capita,Cluster 1
-health expenditure (% GDP),Cluster 1
+health expenditure (per capita),Cluster 1
 Income,Cluster 1
-Deaths - Mental and substance use disorders - Sex: Both - Age: Age-standardized (Rate),Cluster 2
-gdp_current,Cluster 2
-health expenditure (per capita),Cluster 2
-unemployment rate,Cluster 2
-Deaths - Self-harm - Sex: Both - Age: All Ages (Percent),Cluster 3
-DALYs (Disability-Adjusted Life Years) - Mental disorders - Sex: Both - Age: All Ages (Percent),Cluster 3
+Mental disorders prevalence (Percent),Cluster 2
+health expenditure (% GDP),Cluster 2
+unemployment rate (percent),Cluster 2
+Mental disorders burden (Percent),Cluster 2
+Share of deaths from suicide (Percent),Cluster 3
+Mental and substance use disorder deaths (Rate),Cluster 3
 Suicide rate,Cluster 3
