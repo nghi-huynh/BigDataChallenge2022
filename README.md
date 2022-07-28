@@ -1,5 +1,11 @@
 # Big Data Challenge2022
 
+What’s the role of healthcare, especially mental health, in an economic evaluation? What are the predicted mental health trends and suicide rates for the next decade?
+
+Today, I would like to share the journey of me and my teammate Yuan Hong with the STEM Fellowship Inter-University Big Data Challenge 2022 in the past eight weeks. With the theme of sustainable health economics, we started from crafting our dataset to becoming the top 16 finalist teams out of 213 teams in Canada and abroad to compete in the final event.
+
+Our manuscript revolves around two fundamental questions:
+
 👀 What’s the role of healthcare, especially mental health, in an economic evaluation?
 
 👉👉According to WHO, the suicide rate is one of the two indicators to measure mental health. Even though suicide rates are highly correlated to mental disorders, there is no direct link between it and economic status. However, we found a vicious cyclic relationship in which suicide rates are more responsive to socioeconomic factors such as unemployment and health expenditures, especially in low- and middle-income countries. Due to this cyclic relationship, those countries are more vulnerable to economic recessions. It’s like a domino effect. Once those countries get hit by one aspect, it’s more likely that other factors will collapse. In this case, once an economic recession occurs, it will increase unemployment rates and mental disorder burdens and, as a result, elevate suicide rates.
